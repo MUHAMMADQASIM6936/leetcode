@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/MUHAMMADQASIM6936/leetcode/tree/master/0027-remove-element) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/MUHAMMADQASIM6936/leetcode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/MUHAMMADQASIM6936/leetcode/tree/master/0088-merge-sorted-array) |
+| [0162-find-peak-element](https://github.com/MUHAMMADQASIM6936/leetcode/tree/master/0162-find-peak-element) |
 ## Sorting
 |  |
 | ------- |
@@ -47,4 +48,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/MUHAMMADQASIM6936/leetcode/tree/master/0020-valid-parentheses) |
+## Binary Search
+|  |
+| ------- |
+| [0162-find-peak-element](https://github.com/MUHAMMADQASIM6936/leetcode/tree/master/0162-find-peak-element) |
 <!---LeetCode Topics End-->

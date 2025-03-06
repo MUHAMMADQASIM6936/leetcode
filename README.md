@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/MUHAMMADQASIM6936/leetcode/tree/master/0027-remove-element) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/MUHAMMADQASIM6936/leetcode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/MUHAMMADQASIM6936/leetcode/tree/master/0088-merge-sorted-array) |
+| [0125-valid-palindrome](https://github.com/MUHAMMADQASIM6936/leetcode/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/MUHAMMADQASIM6936/leetcode/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/MUHAMMADQASIM6936/leetcode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0283-move-zeroes](https://github.com/MUHAMMADQASIM6936/leetcode/tree/master/0283-move-zeroes) |
@@ -50,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/MUHAMMADQASIM6936/leetcode/tree/master/0020-valid-parentheses) |
+| [0125-valid-palindrome](https://github.com/MUHAMMADQASIM6936/leetcode/tree/master/0125-valid-palindrome) |
 | [0392-is-subsequence](https://github.com/MUHAMMADQASIM6936/leetcode/tree/master/0392-is-subsequence) |
 ## Stack
 |  |

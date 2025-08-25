@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/MUHAMMADQASIM6936/leetcode/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/MUHAMMADQASIM6936/leetcode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0169-majority-element](https://github.com/MUHAMMADQASIM6936/leetcode/tree/master/0169-majority-element) |
+| [0268-missing-number](https://github.com/MUHAMMADQASIM6936/leetcode/tree/master/0268-missing-number) |
 ## Two Pointers
 |  |
 | ------- |
@@ -42,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/MUHAMMADQASIM6936/leetcode/tree/master/0136-single-number) |
 | [0162-find-peak-element](https://github.com/MUHAMMADQASIM6936/leetcode/tree/master/0162-find-peak-element) |
 | [0169-majority-element](https://github.com/MUHAMMADQASIM6936/leetcode/tree/master/0169-majority-element) |
+| [0268-missing-number](https://github.com/MUHAMMADQASIM6936/leetcode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/MUHAMMADQASIM6936/leetcode/tree/master/0283-move-zeroes) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/MUHAMMADQASIM6936/leetcode/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 ## Sorting
@@ -49,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0088-merge-sorted-array](https://github.com/MUHAMMADQASIM6936/leetcode/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/MUHAMMADQASIM6936/leetcode/tree/master/0169-majority-element) |
+| [0268-missing-number](https://github.com/MUHAMMADQASIM6936/leetcode/tree/master/0268-missing-number) |
 ## String
 |  |
 | ------- |
@@ -66,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0162-find-peak-element](https://github.com/MUHAMMADQASIM6936/leetcode/tree/master/0162-find-peak-element) |
+| [0268-missing-number](https://github.com/MUHAMMADQASIM6936/leetcode/tree/master/0268-missing-number) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -75,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0136-single-number](https://github.com/MUHAMMADQASIM6936/leetcode/tree/master/0136-single-number) |
+| [0268-missing-number](https://github.com/MUHAMMADQASIM6936/leetcode/tree/master/0268-missing-number) |
 | [0338-counting-bits](https://github.com/MUHAMMADQASIM6936/leetcode/tree/master/0338-counting-bits) |
 ## Divide and Conquer
 |  |
@@ -102,4 +107,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0094-binary-tree-inorder-traversal](https://github.com/MUHAMMADQASIM6936/leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/MUHAMMADQASIM6936/leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/MUHAMMADQASIM6936/leetcode/tree/master/0145-binary-tree-postorder-traversal) |
+## Math
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/MUHAMMADQASIM6936/leetcode/tree/master/0268-missing-number) |
 <!---LeetCode Topics End-->

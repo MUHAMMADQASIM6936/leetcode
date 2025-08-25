@@ -1,16 +1,19 @@
+#include <unordered_map>
 class Solution {
 public:
     int singleNumber(vector<int>& nums) {
-        int num=0;
-        if (nums.size() == 0) {
-            return 0;
-
-        } else {
-            num = nums[0];
-            for (int i = 1; i < nums.size(); i++) {
-                num ^= nums[i];
-            }
-            return num;
+        unordered_map<int, int> umap;
+        int ans;
+        for (int i = 0; i < nums.size(); i++) {
+            int num = nums[i];
+            umap[num] += 1;
         }
+        for (auto it : umap) {
+            if (it.second == 1) {
+                ans = it.first;
+                break;
+            }
+        }
+        return ans;
     }
-};    
+};

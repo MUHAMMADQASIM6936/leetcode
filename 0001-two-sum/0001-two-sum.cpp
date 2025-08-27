@@ -1,23 +1,18 @@
-#include <bits/stdc++.h>
-#include<unordered_map>
 class Solution {
 public:
     vector<int> twoSum(vector<int>& nums, int target) {
-       unordered_map<int, int> mp; // Stores {value, index}
-
-    for (int i = 0; i < nums.size(); i++) {
-        int complement = target - nums[i];
-
-        // Check if complement exists in map
-        if (mp.find(complement) != mp.end()) {
-            return {mp[complement], i}; // Return indices
+        vector<int>arr;
+        if(nums.size()>1){
+        for(int i=0;i<nums.size()-1;i++){
+            for(int j=i+1;j<nums.size();j++){
+                if(nums[i]+nums[j]==target){
+                    arr.push_back(i);
+                    arr.push_back(j);
+                }
+            }
         }
+        }
+       return arr;
 
-        // Store current number and its index
-        mp[nums[i]] = i;
     }
-
-    return {}; // Return empty if no solution
-}
-    
 };

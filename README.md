@@ -72,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0392-is-subsequence](https://github.com/MUHAMMADQASIM6936/leetcode/tree/master/0392-is-subsequence) |
 | [0812-rotate-string](https://github.com/MUHAMMADQASIM6936/leetcode/tree/master/0812-rotate-string) |
 | [1078-remove-outermost-parentheses](https://github.com/MUHAMMADQASIM6936/leetcode/tree/master/1078-remove-outermost-parentheses) |
+| [2032-largest-odd-number-in-string](https://github.com/MUHAMMADQASIM6936/leetcode/tree/master/2032-largest-odd-number-in-string) |
 ## Stack
 |  |
 | ------- |
@@ -133,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0069-sqrtx](https://github.com/MUHAMMADQASIM6936/leetcode/tree/master/0069-sqrtx) |
 | [0268-missing-number](https://github.com/MUHAMMADQASIM6936/leetcode/tree/master/0268-missing-number) |
+| [2032-largest-odd-number-in-string](https://github.com/MUHAMMADQASIM6936/leetcode/tree/master/2032-largest-odd-number-in-string) |
 ## Interactive
 |  |
 | ------- |
@@ -145,4 +147,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0812-rotate-string](https://github.com/MUHAMMADQASIM6936/leetcode/tree/master/0812-rotate-string) |
+## Greedy
+|  |
+| ------- |
+| [2032-largest-odd-number-in-string](https://github.com/MUHAMMADQASIM6936/leetcode/tree/master/2032-largest-odd-number-in-string) |
 <!---LeetCode Topics End-->

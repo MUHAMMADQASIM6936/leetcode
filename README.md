@@ -71,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/MUHAMMADQASIM6936/leetcode/tree/master/0242-valid-anagram) |
 | [0392-is-subsequence](https://github.com/MUHAMMADQASIM6936/leetcode/tree/master/0392-is-subsequence) |
 | [0812-rotate-string](https://github.com/MUHAMMADQASIM6936/leetcode/tree/master/0812-rotate-string) |
+| [1078-remove-outermost-parentheses](https://github.com/MUHAMMADQASIM6936/leetcode/tree/master/1078-remove-outermost-parentheses) |
 ## Stack
 |  |
 | ------- |
@@ -78,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0094-binary-tree-inorder-traversal](https://github.com/MUHAMMADQASIM6936/leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/MUHAMMADQASIM6936/leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/MUHAMMADQASIM6936/leetcode/tree/master/0145-binary-tree-postorder-traversal) |
+| [1078-remove-outermost-parentheses](https://github.com/MUHAMMADQASIM6936/leetcode/tree/master/1078-remove-outermost-parentheses) |
 ## Binary Search
 |  |
 | ------- |

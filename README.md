@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/MUHAMMADQASIM6936/leetcode/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/MUHAMMADQASIM6936/leetcode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0169-majority-element](https://github.com/MUHAMMADQASIM6936/leetcode/tree/master/0169-majority-element) |
+| [0205-isomorphic-strings](https://github.com/MUHAMMADQASIM6936/leetcode/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/MUHAMMADQASIM6936/leetcode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/MUHAMMADQASIM6936/leetcode/tree/master/0268-missing-number) |
 ## Two Pointers
@@ -66,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/MUHAMMADQASIM6936/leetcode/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/MUHAMMADQASIM6936/leetcode/tree/master/0020-valid-parentheses) |
 | [0125-valid-palindrome](https://github.com/MUHAMMADQASIM6936/leetcode/tree/master/0125-valid-palindrome) |
+| [0205-isomorphic-strings](https://github.com/MUHAMMADQASIM6936/leetcode/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/MUHAMMADQASIM6936/leetcode/tree/master/0242-valid-anagram) |
 | [0392-is-subsequence](https://github.com/MUHAMMADQASIM6936/leetcode/tree/master/0392-is-subsequence) |
 | [0812-rotate-string](https://github.com/MUHAMMADQASIM6936/leetcode/tree/master/0812-rotate-string) |

@@ -8,23 +8,25 @@
  */
 class Solution {
 public:
-    bool hasCycle(ListNode* head) {
-        if (head == nullptr || head->next == nullptr) {
-            return false;
+    bool hasCycle(ListNode *head) {
+        bool flag=false;
+        if(head==nullptr){
+            return flag;
         }
-        
-        ListNode* slow = head;
-        ListNode* fast = head->next;
-        
-        while (fast != nullptr && fast->next != nullptr) {
-            if (fast == slow) {
-                return true; // Cycle detected
+        ListNode*slow=head;
+        ListNode*fast=head;
+        while(fast && fast->next){
+            slow=slow->next;
+            fast=fast->next->next;
+            if(slow==fast){
+                flag=true;
+                break;
             }
-            
-            slow = slow->next;        // Move slow by one step
-            fast = fast->next->next;  // Move fast by two steps
+            else {
+                flag=false;
+            }
         }
-        
-        return false; // No cycle detected
+        return flag;
+
     }
 };

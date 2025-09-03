@@ -9,82 +9,69 @@
 class Solution {
 public:
     ListNode *getIntersectionNode(ListNode *headA, ListNode *headB) {
+        int count=0;
+        int count1=0;
         ListNode*temp=headA;
-        ListNode*temp1=headB;
-        int size=0;
-        int size1=0;
-       
-        while(temp->next!=nullptr){
+        while(temp!=nullptr){
             temp=temp->next;
-            size++;
-
+            count++;
         }
-         while(temp1->next!=nullptr){
+         ListNode*temp1=headB;
+        while(temp1!=nullptr){
             temp1=temp1->next;
-            size1++;
-
+            count1++;
         }
-        if(size>size1){
-            int count =size-size1;
-              ListNode*temp2=headA;
-        ListNode*temp3=headB;
-        for(int i=0;i<count;i++){
-            temp2=temp2->next;
-        }
-         if(temp2==temp3){
-            return temp2;
-        }
-         while(temp2->next!=nullptr){
-            
-            if(temp2->next==temp3->next){
-                return temp2->next;
-            }
-            temp2=temp2->next;
-            temp3=temp3->next;
-            
-        }
-        }
-        else if(size1>size){
-            int count=size1-size;
-             ListNode*temp2=headA;
-        ListNode*temp3=headB;
-        
-        for(int i=0;i<count;i++){
-            temp3=temp3->next;
-        }
-         if(temp2==temp3){
-            return temp2;
-        }
-        while(temp3->next!=nullptr){
-             
-            if(temp2->next==temp3->next){
-                return temp3->next;
-            }
-            temp2=temp2->next;
-            temp3=temp3->next;
-        }
-        }
-        else if(size==size1){
+        if(count==count1){
             ListNode*temp2=headA;
-        ListNode*temp3=headB;
-        if(temp2==temp3){
-            return temp2;
-        }
-         while(temp3->next!=nullptr){
-             
-            if(temp2->next==temp3->next){
-                return temp3->next;
+             ListNode*temp3=headB;
+            while(temp2!=nullptr){
+                if(temp2==temp3){
+                    return temp2;
+                }
+                else{
+                    temp2=temp2->next;
+                    temp3=temp3->next;
+                }
             }
-            temp2=temp2->next;
-            temp3=temp3->next;
         }
-        }
-          if(temp1->next==nullptr && temp->next==nullptr){
-            if(temp==temp1){
-                return temp;
+        else if(count>count1){
+            ListNode*temp2=headA;
+             ListNode*temp3=headB;
+              int size=0;
+             while(size<(count-count1)){
+                temp2=temp2->next;
+                size++;
+             }
+            while(temp2!=nullptr){
+               
+                if(temp2==temp3){
+                    return temp3;
+                }
+                else{
+                     temp2=temp2->next;
+                    temp3=temp3->next;
+                }
             }
-            
         }
-      return nullptr;
+       else if(count<count1){
+            ListNode*temp2=headA;
+             ListNode*temp3=headB;
+             int size=0;
+             while(size<(count1-count)){
+                temp3=temp3->next;
+                size++;
+             }
+            while(temp3!=nullptr){
+                
+                if(temp2==temp3){
+                    return temp2;
+                }
+                else{
+                    temp3=temp3->next;
+                    temp2=temp2->next;
+                }
+            }
+        }
+        return nullptr;
     }
 };

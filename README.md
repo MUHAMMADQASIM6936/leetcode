@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0205-isomorphic-strings](https://github.com/MUHAMMADQASIM6936/leetcode/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/MUHAMMADQASIM6936/leetcode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/MUHAMMADQASIM6936/leetcode/tree/master/0268-missing-number) |
+| [0496-next-greater-element-i](https://github.com/MUHAMMADQASIM6936/leetcode/tree/master/0496-next-greater-element-i) |
 ## Two Pointers
 |  |
 | ------- |
@@ -61,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/MUHAMMADQASIM6936/leetcode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/MUHAMMADQASIM6936/leetcode/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/MUHAMMADQASIM6936/leetcode/tree/master/0485-max-consecutive-ones) |
+| [0496-next-greater-element-i](https://github.com/MUHAMMADQASIM6936/leetcode/tree/master/0496-next-greater-element-i) |
 | [0540-single-element-in-a-sorted-array](https://github.com/MUHAMMADQASIM6936/leetcode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0792-binary-search](https://github.com/MUHAMMADQASIM6936/leetcode/tree/master/0792-binary-search) |
 | [1646-kth-missing-positive-number](https://github.com/MUHAMMADQASIM6936/leetcode/tree/master/1646-kth-missing-positive-number) |
@@ -94,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0144-binary-tree-preorder-traversal](https://github.com/MUHAMMADQASIM6936/leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/MUHAMMADQASIM6936/leetcode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0234-palindrome-linked-list](https://github.com/MUHAMMADQASIM6936/leetcode/tree/master/0234-palindrome-linked-list) |
+| [0496-next-greater-element-i](https://github.com/MUHAMMADQASIM6936/leetcode/tree/master/0496-next-greater-element-i) |
 | [1078-remove-outermost-parentheses](https://github.com/MUHAMMADQASIM6936/leetcode/tree/master/1078-remove-outermost-parentheses) |
 ## Binary Search
 |  |
@@ -165,4 +168,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2032-largest-odd-number-in-string](https://github.com/MUHAMMADQASIM6936/leetcode/tree/master/2032-largest-odd-number-in-string) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0496-next-greater-element-i](https://github.com/MUHAMMADQASIM6936/leetcode/tree/master/0496-next-greater-element-i) |
 <!---LeetCode Topics End-->

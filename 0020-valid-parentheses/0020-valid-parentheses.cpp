@@ -1,28 +1,25 @@
-#include <stack>
-#include <string>
-
 class Solution {
 public:
-    bool isValid(std::string s) {
-        std::stack<char> st;
+    bool isValid(string s) {
+        stack<char> st;
 
-        for (char ch : s) {
-            if (ch == '(' || ch == '{' || ch == '[') {
-                st.push(ch);  // Push opening brackets
+        for (char c : s) {
+            if (c == '(' || c == '{' || c == '[') {
+                st.push(c);
             } else {
-                if (st.empty()) return false; // Closing bracket without an opening
+                if (st.empty()) return false; 
 
                 char top = st.top();
-                if ((top == '(' && ch == ')') ||
-                    (top == '{' && ch == '}') ||
-                    (top == '[' && ch == ']')) {
-                    st.pop();  // Pop matched opening bracket
-                } else {
-                    return false; // Mismatched closing bracket
+                st.pop();
+
+                if ((c == ')' && top != '(') ||
+                    (c == '}' && top != '{') ||
+                    (c == ']' && top != '[')) {
+                    return false;
                 }
             }
         }
 
-        return st.empty(); // If stack is empty, all brackets are matched
+        return st.empty(); 
     }
 };

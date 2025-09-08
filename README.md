@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/MUHAMMADQASIM6936/leetcode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/MUHAMMADQASIM6936/leetcode/tree/master/0268-missing-number) |
 | [0496-next-greater-element-i](https://github.com/MUHAMMADQASIM6936/leetcode/tree/master/0496-next-greater-element-i) |
+| [0966-binary-subarrays-with-sum](https://github.com/MUHAMMADQASIM6936/leetcode/tree/master/0966-binary-subarrays-with-sum) |
 ## Two Pointers
 |  |
 | ------- |
@@ -66,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/MUHAMMADQASIM6936/leetcode/tree/master/0496-next-greater-element-i) |
 | [0540-single-element-in-a-sorted-array](https://github.com/MUHAMMADQASIM6936/leetcode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0792-binary-search](https://github.com/MUHAMMADQASIM6936/leetcode/tree/master/0792-binary-search) |
+| [0966-binary-subarrays-with-sum](https://github.com/MUHAMMADQASIM6936/leetcode/tree/master/0966-binary-subarrays-with-sum) |
 | [1646-kth-missing-positive-number](https://github.com/MUHAMMADQASIM6936/leetcode/tree/master/1646-kth-missing-positive-number) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/MUHAMMADQASIM6936/leetcode/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 ## Sorting
@@ -190,4 +192,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/MUHAMMADQASIM6936/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0966-binary-subarrays-with-sum](https://github.com/MUHAMMADQASIM6936/leetcode/tree/master/0966-binary-subarrays-with-sum) |
+## Prefix Sum
+|  |
+| ------- |
+| [0966-binary-subarrays-with-sum](https://github.com/MUHAMMADQASIM6936/leetcode/tree/master/0966-binary-subarrays-with-sum) |
 <!---LeetCode Topics End-->

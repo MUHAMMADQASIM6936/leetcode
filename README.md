@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0540-single-element-in-a-sorted-array](https://github.com/MUHAMMADQASIM6936/leetcode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0792-binary-search](https://github.com/MUHAMMADQASIM6936/leetcode/tree/master/0792-binary-search) |
 | [0966-binary-subarrays-with-sum](https://github.com/MUHAMMADQASIM6936/leetcode/tree/master/0966-binary-subarrays-with-sum) |
+| [1046-max-consecutive-ones-iii](https://github.com/MUHAMMADQASIM6936/leetcode/tree/master/1046-max-consecutive-ones-iii) |
 | [1646-kth-missing-positive-number](https://github.com/MUHAMMADQASIM6936/leetcode/tree/master/1646-kth-missing-positive-number) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/MUHAMMADQASIM6936/leetcode/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 ## Sorting
@@ -114,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0278-first-bad-version](https://github.com/MUHAMMADQASIM6936/leetcode/tree/master/0278-first-bad-version) |
 | [0540-single-element-in-a-sorted-array](https://github.com/MUHAMMADQASIM6936/leetcode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0792-binary-search](https://github.com/MUHAMMADQASIM6936/leetcode/tree/master/0792-binary-search) |
+| [1046-max-consecutive-ones-iii](https://github.com/MUHAMMADQASIM6936/leetcode/tree/master/1046-max-consecutive-ones-iii) |
 | [1646-kth-missing-positive-number](https://github.com/MUHAMMADQASIM6936/leetcode/tree/master/1646-kth-missing-positive-number) |
 ## Dynamic Programming
 |  |
@@ -193,8 +195,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/MUHAMMADQASIM6936/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0966-binary-subarrays-with-sum](https://github.com/MUHAMMADQASIM6936/leetcode/tree/master/0966-binary-subarrays-with-sum) |
+| [1046-max-consecutive-ones-iii](https://github.com/MUHAMMADQASIM6936/leetcode/tree/master/1046-max-consecutive-ones-iii) |
 ## Prefix Sum
 |  |
 | ------- |
 | [0966-binary-subarrays-with-sum](https://github.com/MUHAMMADQASIM6936/leetcode/tree/master/0966-binary-subarrays-with-sum) |
+| [1046-max-consecutive-ones-iii](https://github.com/MUHAMMADQASIM6936/leetcode/tree/master/1046-max-consecutive-ones-iii) |
 <!---LeetCode Topics End-->

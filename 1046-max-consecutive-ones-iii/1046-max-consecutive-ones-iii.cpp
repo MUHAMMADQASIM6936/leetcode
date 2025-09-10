@@ -6,8 +6,6 @@ public:
         int countzeros = k;
         int max = 0;
         int count = 0;
-        int index = INT_MIN;
-        unordered_map<int, int> m1;
         while (end < nums.size()) {
             if (nums[end] == 1) {
                 count++;

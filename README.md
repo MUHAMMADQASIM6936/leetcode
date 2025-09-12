@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0021-merge-two-sorted-lists](https://github.com/MUHAMMADQASIM6936/leetcode/tree/master/0021-merge-two-sorted-lists) |
 | [0206-reverse-linked-list](https://github.com/MUHAMMADQASIM6936/leetcode/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/MUHAMMADQASIM6936/leetcode/tree/master/0234-palindrome-linked-list) |
+| [1013-fibonacci-number](https://github.com/MUHAMMADQASIM6936/leetcode/tree/master/1013-fibonacci-number) |
 ## Array
 |  |
 | ------- |
@@ -123,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0338-counting-bits](https://github.com/MUHAMMADQASIM6936/leetcode/tree/master/0338-counting-bits) |
 | [0392-is-subsequence](https://github.com/MUHAMMADQASIM6936/leetcode/tree/master/0392-is-subsequence) |
+| [1013-fibonacci-number](https://github.com/MUHAMMADQASIM6936/leetcode/tree/master/1013-fibonacci-number) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -160,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0069-sqrtx](https://github.com/MUHAMMADQASIM6936/leetcode/tree/master/0069-sqrtx) |
 | [0268-missing-number](https://github.com/MUHAMMADQASIM6936/leetcode/tree/master/0268-missing-number) |
+| [1013-fibonacci-number](https://github.com/MUHAMMADQASIM6936/leetcode/tree/master/1013-fibonacci-number) |
 | [2032-largest-odd-number-in-string](https://github.com/MUHAMMADQASIM6936/leetcode/tree/master/2032-largest-odd-number-in-string) |
 ## Interactive
 |  |
@@ -204,4 +207,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0966-binary-subarrays-with-sum](https://github.com/MUHAMMADQASIM6936/leetcode/tree/master/0966-binary-subarrays-with-sum) |
 | [1046-max-consecutive-ones-iii](https://github.com/MUHAMMADQASIM6936/leetcode/tree/master/1046-max-consecutive-ones-iii) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/MUHAMMADQASIM6936/leetcode/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
+## Memoization
+|  |
+| ------- |
+| [1013-fibonacci-number](https://github.com/MUHAMMADQASIM6936/leetcode/tree/master/1013-fibonacci-number) |
 <!---LeetCode Topics End-->
